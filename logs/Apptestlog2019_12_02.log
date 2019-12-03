@@ -1,0 +1,19 @@
+
+2019-12-02 14:25:00,004 - loginView.py -[line:16] - INFO - start
+2019-12-02 14:25:03,332 - loginView.py -[line:33] - INFO - login sucess
+2019-12-02 14:26:11,969 - loginView.py -[line:16] - INFO - start
+2019-12-02 14:26:23,637 - loginView.py -[line:29] - INFO - login fail
+2019-12-02 14:26:23,638 - common_fun.py -[line:35] - INFO - get screenshot login fail
+2019-12-02 15:51:59,435 - loginView.py -[line:25] - INFO - start
+2019-12-02 15:52:02,136 - loginView.py -[line:42] - INFO - login sucess
+2019-12-02 15:52:40,934 - loginView.py -[line:25] - INFO - start
+2019-12-02 15:52:43,812 - loginView.py -[line:42] - INFO - login sucess
+2019-12-02 16:00:14,227 - loginView.py -[line:26] - INFO - start
+2019-12-02 16:00:16,978 - loginView.py -[line:43] - INFO - login sucess
+2019-12-02 16:23:21,506 - loginView.py -[line:26] - INFO - start
+2019-12-02 16:23:24,239 - loginView.py -[line:43] - INFO - login sucess
+2019-12-02 17:02:54,970 - loginView.py -[line:29] - INFO - start
+2019-12-02 17:02:57,657 - loginView.py -[line:46] - INFO - login sucess
+2019-12-02 17:45:44,413 - loginView.py -[line:34] - INFO - start
+2019-12-02 17:45:47,267 - loginView.py -[line:51] - INFO - login sucess
+2019-12-02 17:46:17,512 - loginView.py -[line:51] - INFO - login sucess

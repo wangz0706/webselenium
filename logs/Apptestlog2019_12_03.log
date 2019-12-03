@@ -1,0 +1,72 @@
+2019-12-03 10:50:58,407 - my_unit.py -[line:12] - INFO - 开始测试
+2019-12-03 10:50:58,408 - test_login.py -[line:8] - INFO - start test login
+2019-12-03 10:51:08,469 - loginView.py -[line:46] - INFO - login fail
+2019-12-03 10:51:08,470 - common_fun.py -[line:35] - INFO - get screenshot login fail
+2019-12-03 10:51:09,079 - my_unit.py -[line:15] - INFO - 测试结束
+2019-12-03 10:56:39,846 - loginView.py -[line:34] - INFO - start
+2019-12-03 10:56:42,446 - loginView.py -[line:51] - INFO - login sucess
+2019-12-03 13:54:03,469 - my_unit.py -[line:12] - INFO - 开始测试
+2019-12-03 13:54:03,470 - test_login.py -[line:8] - INFO - start test login
+2019-12-03 13:54:17,482 - loginView.py -[line:48] - INFO - login fail
+2019-12-03 13:54:17,483 - common_fun.py -[line:35] - INFO - get screenshot login fail
+2019-12-03 13:54:17,995 - my_unit.py -[line:15] - INFO - 测试结束
+2019-12-03 13:59:32,680 - loginView.py -[line:34] - INFO - start
+2019-12-03 13:59:39,251 - loginView.py -[line:52] - INFO - login sucess
+2019-12-03 14:04:13,532 - my_unit.py -[line:12] - INFO - 开始测试
+2019-12-03 14:04:13,533 - test_login.py -[line:8] - INFO - start test login
+2019-12-03 14:04:27,579 - loginView.py -[line:48] - INFO - login fail
+2019-12-03 14:04:27,579 - common_fun.py -[line:35] - INFO - get screenshot login fail
+2019-12-03 14:04:28,071 - my_unit.py -[line:15] - INFO - 测试结束
+2019-12-03 14:06:57,334 - my_unit.py -[line:12] - INFO - 开始测试
+2019-12-03 14:06:57,335 - test_login.py -[line:8] - INFO - start test login
+2019-12-03 14:06:57,336 - loginView.py -[line:34] - INFO - start
+2019-12-03 14:07:03,856 - loginView.py -[line:52] - INFO - login sucess
+2019-12-03 14:07:03,857 - my_unit.py -[line:15] - INFO - 测试结束
+2019-12-03 14:11:14,651 - my_unit.py -[line:12] - INFO - 开始测试
+2019-12-03 14:11:14,651 - test_setting.py -[line:9] - INFO - start change setting
+2019-12-03 14:11:39,978 - AlertsettingView.py -[line:46] - INFO - login sucess
+2019-12-03 14:11:39,979 - test_setting.py -[line:15] - INFO - 登录失败不能进入修改设置页面
+2019-12-03 14:11:39,979 - my_unit.py -[line:15] - INFO - 测试结束
+2019-12-03 14:18:16,071 - AlertsettingView.py -[line:43] - INFO - login fail
+2019-12-03 14:18:16,071 - common_fun.py -[line:35] - INFO - get screenshot login fail
+2019-12-03 14:20:52,475 - AlertsettingView.py -[line:43] - INFO - login fail
+2019-12-03 14:20:52,475 - common_fun.py -[line:35] - INFO - get screenshot login fail
+2019-12-03 14:24:19,508 - AlertsettingView.py -[line:48] - INFO - login sucess
+2019-12-03 14:29:37,831 - my_unit.py -[line:13] - INFO - 开始测试
+2019-12-03 14:29:37,832 - test_setting.py -[line:9] - INFO - start change setting
+2019-12-03 14:30:05,556 - AlertsettingView.py -[line:48] - INFO - login sucess
+2019-12-03 14:30:05,556 - test_setting.py -[line:15] - INFO - 登录失败不能进入修改设置页面
+2019-12-03 14:30:05,557 - my_unit.py -[line:16] - INFO - 测试结束
+2019-12-03 14:30:54,916 - my_unit.py -[line:13] - INFO - 开始测试
+2019-12-03 14:30:54,917 - test_setting.py -[line:9] - INFO - start change setting
+2019-12-03 14:31:10,720 - AlertsettingView.py -[line:48] - INFO - login sucess
+2019-12-03 14:31:10,720 - test_setting.py -[line:15] - INFO - 登录失败不能进入修改设置页面
+2019-12-03 14:31:10,721 - my_unit.py -[line:16] - INFO - 测试结束
+2019-12-03 14:55:05,353 - my_unit.py -[line:13] - INFO - 开始测试
+2019-12-03 14:55:05,353 - test_login.py -[line:8] - INFO - start test login
+2019-12-03 14:55:05,353 - loginView.py -[line:34] - INFO - start
+2019-12-03 14:55:12,269 - loginView.py -[line:52] - INFO - login sucess
+2019-12-03 14:55:12,270 - my_unit.py -[line:16] - INFO - 测试结束
+2019-12-03 14:55:23,320 - my_unit.py -[line:13] - INFO - 开始测试
+2019-12-03 14:55:23,320 - test_setting.py -[line:9] - INFO - start change setting
+2019-12-03 14:55:42,339 - AlertsettingView.py -[line:48] - INFO - login sucess
+2019-12-03 14:55:42,339 - my_unit.py -[line:16] - INFO - 测试结束
+2019-12-03 15:03:01,026 - my_unit.py -[line:13] - INFO - 开始测试
+2019-12-03 15:03:01,027 - test_login.py -[line:8] - INFO - start test login
+2019-12-03 15:03:01,027 - loginView.py -[line:34] - INFO - start
+2019-12-03 15:03:07,684 - loginView.py -[line:52] - INFO - login sucess
+2019-12-03 15:03:07,684 - my_unit.py -[line:16] - INFO - 测试结束
+2019-12-03 15:03:18,622 - my_unit.py -[line:13] - INFO - 开始测试
+2019-12-03 15:03:18,622 - test_setting.py -[line:9] - INFO - start change setting
+2019-12-03 15:03:37,961 - AlertsettingView.py -[line:48] - INFO - login sucess
+2019-12-03 15:03:37,962 - my_unit.py -[line:16] - INFO - 测试结束
+2019-12-03 15:10:27,041 - my_unit.py -[line:13] - INFO - 开始测试
+2019-12-03 15:10:27,042 - test_login.py -[line:8] - INFO - start test login
+2019-12-03 15:10:27,042 - loginView.py -[line:34] - INFO - start
+2019-12-03 15:10:34,141 - loginView.py -[line:52] - INFO - login sucess
+2019-12-03 15:10:34,142 - my_unit.py -[line:16] - INFO - 测试结束
+2019-12-03 15:10:44,687 - my_unit.py -[line:13] - INFO - 开始测试
+2019-12-03 15:10:44,687 - test_setting.py -[line:9] - INFO - start change setting
+2019-12-03 15:11:03,097 - AlertsettingView.py -[line:48] - INFO - login sucess
+2019-12-03 15:11:03,097 - test_setting.py -[line:13] - INFO - start change setting
+2019-12-03 15:11:16,498 - my_unit.py -[line:16] - INFO - 测试结束
