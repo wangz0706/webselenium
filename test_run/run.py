@@ -1,12 +1,19 @@
 #encoding=utf-8
 from HTMLTestRunner import HTMLTestRunner
 import time,os
+import sys
+path='D:\\StudyTest\\webselenium'
+sys.path.append(path)
 from common.Email import SendMail
 import unittest
+
 
 now = time.strftime("%Y-%m-%d %H_%M_%S")
 report_name = now + 'testfanreport.html'
 report_path = os.path.join(os.path.dirname(os.path.dirname(__file__)),"reports",report_name)
+if report_path not in sys.path:
+    sys.path.append(report_path)
+
 
 def getsuit():
     suit=unittest.TestSuite()

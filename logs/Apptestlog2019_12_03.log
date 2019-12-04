@@ -70,3 +70,19 @@
 2019-12-03 15:11:03,097 - AlertsettingView.py -[line:48] - INFO - login sucess
 2019-12-03 15:11:03,097 - test_setting.py -[line:13] - INFO - start change setting
 2019-12-03 15:11:16,498 - my_unit.py -[line:16] - INFO - 测试结束
+2019-12-03 17:22:54,342 - my_unit.py -[line:13] - INFO - 开始测试
+2019-12-03 17:22:54,343 - test_login.py -[line:8] - INFO - start test login
+2019-12-03 17:22:54,343 - loginView.py -[line:34] - INFO - start
+2019-12-03 17:23:02,084 - loginView.py -[line:52] - INFO - login sucess
+2019-12-03 17:23:02,084 - my_unit.py -[line:16] - INFO - 测试结束
+2019-12-03 17:23:12,434 - my_unit.py -[line:13] - INFO - 开始测试
+2019-12-03 17:23:39,499 - AlertsettingView.py -[line:48] - INFO - login sucess
+2019-12-03 17:23:39,499 - test_setting.py -[line:12] - INFO - start change setting
+2019-12-03 17:23:53,006 - my_unit.py -[line:16] - INFO - 测试结束
+2019-12-03 17:25:33,152 - my_unit.py -[line:13] - INFO - 开始测试
+2019-12-03 17:25:33,152 - test_login.py -[line:8] - INFO - start test login
+2019-12-03 17:25:33,152 - loginView.py -[line:34] - INFO - start
+2019-12-03 17:25:39,979 - loginView.py -[line:52] - INFO - login sucess
+2019-12-03 17:25:39,979 - my_unit.py -[line:16] - INFO - 测试结束
+2019-12-03 17:25:51,242 - my_unit.py -[line:13] - INFO - 开始测试
+2019-12-03 17:25:55,415 - my_unit.py -[line:16] - INFO - 测试结束
